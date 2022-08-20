@@ -1,0 +1,1 @@
+{"corporation": 0.0, "lastmonth_activity": 0.0, "lastyear_activity": 0.0, "number_of_employees": 0.0, "exited": 0.0}

@@ -1,0 +1,1 @@
+*/10 * * * * python /Users/nontawatpattanajak/iYear2022/Machine Learning/project_4/starter-file/fullprocess.py
